@@ -2,6 +2,7 @@
 @time: 2025/4/27 下午3:58
 @author: Jason.Zhang
 @file: request_dome.py
+get请求无参数处理
 """
 
 import requests
