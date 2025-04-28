@@ -2,7 +2,7 @@
 @time: 2025/4/28 下午2:16
 @author: Jason.Zhang
 @file: request_dome2.py
-加参数的request-get 使用
+@desc:加参数的request-get 使用
 """
 
 import requests
